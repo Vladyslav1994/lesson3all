@@ -1,13 +1,14 @@
 .main{
     background: #090000;
-    width: 550px;
-    height: 400px;
+    width: 1000px;
+    height: 1000px;
     padding: 10px;
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
     text-align: center;
     box-sizing: border-box;
+    column-gap: 20px;
 }
 .ab{
     width: 500px;
