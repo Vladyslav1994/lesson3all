@@ -1,26 +1,26 @@
 .main{
     background: #090000;
-    width: 1000px;
-    height: 1000px;
+    width: 400px;
+    height: 300px;
     padding: 10px;
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
     text-align: center;
     box-sizing: border-box;
-    column-gap: 20px;
 }
 .ab{
-    width: 500px;
+    width: 400px;
     height: 150px;
     background: yellowgreen;
 }
 .ac{
-    width: 400px;
-    height: 150px;
+    height: 100px;
     background: aquamarine;
+    flex-grow: 4;
 }
-.ad{
-    width: 100px;
-    height: 150px;
+.ad {
+    height: 100px;
     background: #0f259a;
+    flex-grow: 1;
+}
