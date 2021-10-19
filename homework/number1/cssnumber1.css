@@ -1,0 +1,25 @@
+.main{
+    background: #090000;
+    width: 550px;
+    height: 400px;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    text-align: center;
+    box-sizing: border-box;
+}
+.ab{
+    width: 500px;
+    height: 150px;
+    background: yellowgreen;
+}
+.ac{
+    width: 400px;
+    height: 150px;
+    background: aquamarine;
+}
+.ad{
+    width: 100px;
+    height: 150px;
+    background: #0f259a;
