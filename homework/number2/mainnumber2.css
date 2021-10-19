@@ -1,0 +1,49 @@
+#main{
+    width: 350px;
+    height: 550px;
+    background: #ea8918;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#header{
+    width: 250px;
+    height: 100px;
+    background: aquamarine;
+    padding: 5px;
+    margin: 5px;
+    justify-content: center;
+
+}
+#menu{
+    width: 80px;
+    height: 200px;
+    background: aquamarine;
+    padding: 5px;
+    margin: 5px;
+
+}
+#footer{
+    width: 250px;
+    height: 100px;
+    background: aquamarine;
+    padding: 5px;
+    margin: 5px;
+
+}
+.post1{
+    width: 200px;
+    height: 100px;
+    background: aquamarine;
+    padding: 5px;
+    margin: 5px;
+
+}
+.post2{
+    width: 200px;
+    height: 100px;
+    background: aquamarine;
+    padding: 5px;
+    margin: 5px;
+
+}
