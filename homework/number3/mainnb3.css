@@ -1,0 +1,63 @@
+#main1{
+    width: 800px;
+    height: 800px;
+    background: #ab9c09;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.widgets{
+    width: 600px;
+    height: 200px;
+    background: #6f80dc;
+    margin: 5px;
+    padding: 5px;
+    justify-content: center;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 100px;
+
+}
+.bigwidgets{
+    width: 200px;
+    height: 200px;
+    background: #26367e;
+    margin: 5px;
+    padding-top: 100px;
+    text-align: center;
+    box-sizing: border-box;
+
+
+}
+.biggerwidgets{
+    width: 200px;
+    height: 200px;
+    background: #071662;
+    margin: 5px;
+    padding-top: 100px;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+.hugewidgets{
+    width: 200px;
+    height: 200px;
+    background: #405bea;
+    margin: 5px;
+    padding-top: 100px;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+.contakt{
+    width: 600px;
+    height: 300px;
+    background: #540202;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 150px;
+
+}
